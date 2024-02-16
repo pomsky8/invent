@@ -1,0 +1,52 @@
+
+*
+body{
+    background-color: rgb(107, 245, 245);
+}
+
+.hcontainer{
+    position: fixed;
+    padding: 25px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.scontainer{
+    position: fixed;
+    padding: 150px;
+    padding-bottom: 650px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.ccontainer{
+    position: fixed;
+    padding: 240px;
+    padding-bottom: 560px;
+    padding-right: 710;
+    margin-top: 70px;
+    margin-left: 320px;
+    background-color: rgb(236, 147, 147);
+    border-radius: 10px;
+    
+}
+
+.button{
+    float:left;
+    position: fixed;
+    margin-top: -230px;
+    margin-left: -230px;
+}
+
+.ctable{
+    position: fixed;
+    margin-top: -170px;
+    margin-left: -220px;
+    width: 100vh;
+}
+
